@@ -10,8 +10,7 @@ paperurl: 'https://ebooks.iospress.nl/volumearticle/54484'
 citation: 'Demelius, L., Kreiner, K., Hayn, D., Nitzlnader, M., & Schreier, G. (2020). Encoding of numerical data for privacy-preserving record linkage. In <i>dHealth 2020–Biomedical Informatics for Health and Care</i> (pp. 23-30). IOS Press.'
 ---
 
-Abstract. Background: Privacy-preserving record linkage (PPRL) is the process of detecting dataset entries that refer to the same individual within two independent datasets, without disclosing any personal information. While applied in different fields, it particularly attained importance in the medical sector. One popular PPRL
-method are Bloom filters. However, Bloom filters were originally used for encoding
+Abstract: Background: Privacy-preserving record linkage (PPRL) is the process of detecting dataset entries that refer to the same individual within two independent datasets, without disclosing any personal information. While applied in different fields, it particularly attained importance in the medical sector. One popular PPRL method are Bloom filters. However, Bloom filters were originally used for encoding
 strings only. Objectives: This paper evaluates an encoding method specifically
 designed for numerical data and adjusts it for encoding geocoordinates in Bloom
 filters. Methods: The proposed numerical encoding of geocoordinates is compared
