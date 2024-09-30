@@ -21,22 +21,19 @@ Work experience
   * Know Center Research GmbH
 
 * Nov. 2022 - now: University Project Assistant
-  * Institute of Interactive Systems and Data Science
-  * Graz University of Technology
+  * Institute of Interactive Systems and Data Science, Graz University of Technology
 
 * Mar. - Jun. 2022: Freelancer (Backend developer)
   * Austrian Institute of Technology
 
 * Oct. 2019 - Jan. 2020: Student Assistant
-  * Insitute of Neural Engineering
-  * Graz University of Technology
+  * Insitute of Neural Engineering, Graz University of Technology
   
 * Mar. - Sep. 2019: Intern
   * Austrian Institute of Technology
   
 * Mar. 2018 - Feb. 2019: Student Assistant
-  * Electric Drives and Machines Institute
-  * Graz University of Technology
+  * Electric Drives and Machines Institute, Graz University of Technology
 
 * Jul. - Aug. 2018: Intern
   * Austrian Institute of Technology
@@ -49,5 +46,5 @@ Publications
   
 Service
 ======
-* NeurIPS 2024 reviewer
-* ICLR 2025 reviewer
+* reviewer for NeurIPS 2024
+* reviewer for ICLR 2025
