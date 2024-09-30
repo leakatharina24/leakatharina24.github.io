@@ -28,7 +28,8 @@ author:
   location         : "Graz, Austria"
   employer         : "Technical University of Graz"
   uri              : # URL
-  email            : "lea.demelius@student.tugraz.at" #, "ldemelius@know-center.at" 
+  email            : "lea.demelius@tugraz.at"
+  second_email     : "ldemelius@know-center.at" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
