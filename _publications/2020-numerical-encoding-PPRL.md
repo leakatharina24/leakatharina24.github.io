@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2020-numerical-encoding-PPRL
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+date: 2020-06-23
 venue: 'Volume 271: dHealth 2020 – Biomedical Informatics for Health and Care'
 paperurl: 'https://ebooks.iospress.nl/volumearticle/54484'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
