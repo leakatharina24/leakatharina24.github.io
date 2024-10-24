@@ -1,7 +1,7 @@
 ---
 title: "Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2023-DP_survey_arxiv
 excerpt: ''
 date: 2023-09-28
