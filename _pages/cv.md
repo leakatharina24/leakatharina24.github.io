@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Graz University of Technology, 2026 (expected)
-	> KU Leuven Summer School on the Law, Ethics and Policy of AI (July 2024)
+	- KU Leuven Summer School on the Law, Ethics and Policy of AI (July 2024)
 * M.S. in Biomedical Engineering, Graz University of Technology, 2022
-	> Member of the TU Graz Data Team (Feb.-Jun. 2020)
-	Exchange semester at the University of Oulu, Finland (Sep.-Dec. 2020)
+	- Member of the TU Graz Data Team (Feb.-Jun. 2020)
+	- Exchange semester at the University of Oulu, Finland (Sep.-Dec. 2020)
 * B.S. in Biomedical Engineering, Graz University o Technology, 2020
 
 Work experience
