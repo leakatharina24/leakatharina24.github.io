@@ -46,11 +46,11 @@ Publications
 
 Distinctions
 ======
-* Dean's list (top 5% students of the respective degree program and year): 2017/18, 2018/19 and 2019/20 (see: (https://bit.ly/3M7EQv0))
+* [Dean's list](https://bit.ly/3M7EQv0) (top 5% students of the respective degree program and year): 2017/18, 2018/19 and 2019/20
 * Finalist of the 'Best MSc Paper Award' at the dHealth conference in the category 'Health Informatics' (May 2020)
 * Merit-based scholarships for the academic years 2018/19 and 2020/21
   
-Academic Service & Teaching
+Academic service & teaching
 ======
 * Reviewer for NeurIPS 2024
 * Reviewer for ICLR 2025
