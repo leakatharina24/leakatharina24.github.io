@@ -50,7 +50,9 @@ Distinctions
 * Finalist of the 'Best MSc Paper Award' at the dHealth conference in the category 'Health Informatics' (May 2020)
 * Merit-based scholarships for the academic years 2018/19 and 2020/21
   
-Service
+Academic Service & Teaching
 ======
-* reviewer for NeurIPS 2024
-* reviewer for ICLR 2025
+* Reviewer for NeurIPS 2024
+* Reviewer for ICLR 2025
+* Lecturer at University of Graz (Course: Digitalization in Academia and Society - Fall 2024)
+* Guest lecturer at Graz University of Technology (Course: Knowledge Discovery and Data Mining 2 - Fall 2024)

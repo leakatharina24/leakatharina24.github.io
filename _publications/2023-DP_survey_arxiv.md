@@ -2,7 +2,7 @@
 title: "Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey"
 collection: publications
 category: conferences
-permalink: /publication/2020-numerical-encoding-PPRL
+permalink: /publication/2023-DP_survey_arxiv
 excerpt: ''
 date: 2023-09-28
 venue: 'arXiv preprint arXiv:2309.16398'
