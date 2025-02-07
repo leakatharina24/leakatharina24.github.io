@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2023-DP_survey_arxiv
 excerpt: ''
 date: 2023-09-28
-venue: 'arXiv preprint arXiv:2309.16398'
-paperurl: 'https://arxiv.org/abs/2309.16398'
+venue: 'ACM Computing Surveys'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3712000'
 citation: 'Demelius, L., Kern, R., Trügler, A. (2023). Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey. arXiv preprint arXiv:2309.16398.'
 ---
 
