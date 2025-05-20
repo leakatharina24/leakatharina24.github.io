@@ -1,7 +1,7 @@
 ---
 title: "Establishing and Evaluating Trustworthy AI: Overview and Research Challenges"
 collection: publications
-category: manuscripts
+category: papers
 permalink: /publication/2023-TrustworthyAI_survey
 excerpt: ''
 date: 2024-11-11

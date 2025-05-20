@@ -1,7 +1,7 @@
 ---
 title: "Encoding of Numerical Data for Privacy-preserving Record Linkage"
 collection: publications
-category: conferences
+category: papers
 permalink: /publication/2020-numerical-encoding-PPRL
 excerpt: ''
 date: 2020-06-23
