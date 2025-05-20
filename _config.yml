@@ -76,8 +76,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-   papers:
-     title: 'Papers'
+  papers:
+    title: 'Papers'
 #  conferences:
 #    title: 'Conference Papers'
 #  manuscripts:
