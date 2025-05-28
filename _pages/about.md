@@ -11,6 +11,4 @@ I am a PhD student at the [University of Technology, Graz (Austria)](https://www
 
 My research focuses on differential privacy, which is widely regarded as the state-of-the-art for protecting privacy in data analysis and machine learning. I am especially interested in the trade-offs and synergies that arise between various requirements for trustworthy AI (in particular privacy and fairness), as well as the practical and societal implications of integrating differential privacy into real-world systems.
 
-#In addition to my PhD research, I am interested in the science of science and environmental research. Outside of academia, I am passionate about road cycling, singing, and motorcycle travel.
-
 If you are interested in collaborating with me, reach out via [email](mailto:lea.demelius@tugraz.at).
