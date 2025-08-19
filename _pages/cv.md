@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Graz University of Technology, 2026 (expected)
+	- Visiting graduate student at University of Virginia (under Nando Fioretto; March - July 2025)
 	- KU Leuven Summer School on the Law, Ethics and Policy of AI (July 2024)
 * M.S. in Biomedical Engineering, Graz University of Technology, 2022
 	- Member of the TU Graz Data Team (Feb.-Jun. 2020)
@@ -23,7 +24,7 @@ Work experience
 * Apr. 2023 - now: Researcher
   * Know Center Research GmbH
 
-* Nov. 2022 - now: University Project Assistant
+* Nov. 2022 - May 2025: University Project Assistant
   * Institute of Interactive Systems and Data Science, Graz University of Technology
 
 * Mar. - Jun. 2022: Freelancer (Backend developer)
@@ -55,7 +56,7 @@ Distinctions
   
 Academic service & teaching
 ======
-* Reviewer for NeurIPS 2024
+* Reviewer for NeurIPS 2024 & 2025
 * Reviewer for ICLR 2025
 * Lecturer at University of Graz (Course: Digitalization in Academia and Society - Fall 2024)
 * Guest lecturer at Graz University of Technology (Course: Knowledge Discovery and Data Mining 2 - Fall 2024)
