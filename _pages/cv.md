@@ -17,7 +17,7 @@ Education
 * M.S. in Biomedical Engineering, Graz University of Technology, 2022
 	- Member of the TU Graz Data Team (Feb.-Jun. 2020)
 	- Exchange semester at the University of Oulu, Finland (Sep.-Dec. 2020)
-* B.S. in Biomedical Engineering, Graz University o Technology, 2020
+* B.S. in Biomedical Engineering, Graz University of Technology, 2020
 
 Work experience
 ======
