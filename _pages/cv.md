@@ -58,5 +58,5 @@ Academic service & teaching
 ======
 * Reviewer for NeurIPS 2024 & 2025
 * Reviewer for ICLR 2025
-* Lecturer at University of Graz (Course: Digitalization in Academia and Society - Fall 2024)
+* Lecturer at University of Graz (Course: Digitalization in Academia and Society - Fall 2024 & Fall 2025)
 * Guest lecturer at Graz University of Technology (Course: Knowledge Discovery and Data Mining 2 - Fall 2024)
