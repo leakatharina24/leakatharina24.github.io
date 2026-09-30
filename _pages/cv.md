@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Graz University of Technology, 2026 (expected)
+* Ph.D in Computer Science, Graz University of Technology, 2026
 	- Visiting graduate student at University of Virginia (under Nando Fioretto; March - July 2025)
 	- KU Leuven Summer School on the Law, Ethics and Policy of AI (July 2024)
 * M.S. in Biomedical Engineering, Graz University of Technology, 2022
